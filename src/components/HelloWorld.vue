@@ -26,7 +26,7 @@
     </b-row>
     <b-row class="text-center">
       <b-col>
-        <small>Made by <b-link href="https://twitter.com/mcklatch" rel="noopener noreferrer" target="_blank" class="yellow">McKlatch</b-link> - see more at <b-link href="http://8bitephod.com/" rel="noopener noreferrer" target="_blank" class="yellow">8bitEphod.com</b-link></small>
+        <small>Made by <b-link href="https://mcklatch.com/hi" rel="noopener noreferrer" target="_blank" class="yellow">McKlatch</b-link> - see more at <b-link href="https://dev.mcklatch.com" rel="noopener noreferrer" target="_blank" class="yellow">dev.mcklatch.com</b-link></small>
       </b-col>
     </b-row>
   </b-container>
